@@ -1,0 +1,2 @@
+put your txt files created from the epub files of books here.
+you can use the script in helper to transform epub to txt.
